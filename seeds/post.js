@@ -2,18 +2,18 @@ const { Post } = require('../models');
 
 const postData = [
     {
-        title: 'Favorite Hearthstone Deck',
-        content: 'My favorite deck in Hearthstone is Control Priest!',
+        title: 'This is the first example post',
+        content: 'Wellcome to the test blog',
         user_id: 1,
     },
     {
-        title: 'New Expansion Hype!',
-        content: 'The latest Hearthstone expansion is amazing!',
+        title: 'What you can find here?',
+        content: 'Here you can found the newest tech related posts',
         user_id: 2,
     },
     {
-        title: 'Hearthstone Strategies',
-        content: 'Let\'s discuss different Hearthstone strategies in this post.',
+        title: 'What is another use of the site?',
+        content: 'You can share tech experiences good and the bad ones',
         user_id: 3,
     },
 ];
